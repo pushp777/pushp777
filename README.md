@@ -1,7 +1,7 @@
 - 👋 Hi, I’m pushpender kumar.
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning more about data science.
-- 💞️ I’m looking to collaborate on big ferms
+- 💞️ fliprobo technologies.
 - 📫 sshivam480@gmail.com
 
 <!---
